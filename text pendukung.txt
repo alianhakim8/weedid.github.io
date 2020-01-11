@@ -1,0 +1,46 @@
+TITLE
+WEEEDID - front end Developers
+
+
+-- home weeedid
+WEEEDID front end Developers
+Kami membuat & mengajarkan membuat template sesuai dengan konsep bisnis anda
+
+EXPLORE TEMPLATE
+
+
+-- quotes
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris turpis libero, laoreet nec augue et, dignissim elementum libero. fermentum.
+
+Anda Name, Programmer Wegodev
+
+
+-- card
+Belajar programming dengan metode studi kasus
+Mari bergabung di dalam wegodev.com, kita akan belajar sampai kamu bisa.
+
+Belajar Sekarang
+
+
+-- section 1
+Clean code
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis quam faucibus, ullamcorper neque sit amet, sollicitudin ex. Aenean viverra elit condimentum rutrum iaculis. Nulla a pharetra lorem. Integer viverra lectus lacus, eu volutpat sapien imperdiet non. Aliquam luctus nisi vitae convallis egestas. Etiam ut ornare lacus. Phasellus et lacus ex.
+
+View template
+
+
+-- section 2
+Technologies We Use
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis quam faucibus, ullamcorper neque sit amet. Nulla a pharetra lorem. Integer viverra lectus lacus.
+
+HTML 5
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis quam faucibus, ullamcorper neque sit amet.
+
+
+CSS 3
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis quam faucibus, ullamcorper neque sit amet.
+
+
+BOOTSTRAP
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis quam faucibus, ullamcorper neque sit amet.
